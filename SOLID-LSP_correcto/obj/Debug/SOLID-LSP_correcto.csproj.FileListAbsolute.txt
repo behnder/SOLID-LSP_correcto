@@ -1,0 +1,6 @@
+E:\unity\quark\Solid\SOLID-LSP_correcto\SOLID-LSP_correcto\bin\Debug\SOLID-LSP_correcto.exe.config
+E:\unity\quark\Solid\SOLID-LSP_correcto\SOLID-LSP_correcto\bin\Debug\SOLID-LSP_correcto.exe
+E:\unity\quark\Solid\SOLID-LSP_correcto\SOLID-LSP_correcto\bin\Debug\SOLID-LSP_correcto.pdb
+E:\unity\quark\Solid\SOLID-LSP_correcto\SOLID-LSP_correcto\obj\Debug\SOLID-LSP_correcto.csproj.CoreCompileInputs.cache
+E:\unity\quark\Solid\SOLID-LSP_correcto\SOLID-LSP_correcto\obj\Debug\SOLID-LSP_correcto.exe
+E:\unity\quark\Solid\SOLID-LSP_correcto\SOLID-LSP_correcto\obj\Debug\SOLID-LSP_correcto.pdb
